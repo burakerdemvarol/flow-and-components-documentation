@@ -8,7 +8,7 @@ layout: page
 
 You can use the `RouterLink` component to create links that lead to route targets in the application.
 
-.RouterLink sample for navgation target with and without URL parameter
+.RouterLink sample for navigation target with and without URL parameter
 [source,java]
 ----
 void routerLink() {
